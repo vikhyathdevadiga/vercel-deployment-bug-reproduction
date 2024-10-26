@@ -1,5 +1,5 @@
 export default async function Page() {
-  const base = `${process.cwd()}/contentsx4/hersteller`
+  const base = `/vercel/path0/contentsx4/hersteller`
   console.log('base: ', base)
   return (
     <div>
